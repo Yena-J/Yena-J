@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=298A08&height=200&section=header&text="HelLo mY wOrLD"&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=298A08&height=200&section=header&text=HelLo_mY_wOrLD&fontSize=60" />
 
 ### HelLO mY wOrLD!
 ## INFO
