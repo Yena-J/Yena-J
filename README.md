@@ -12,4 +12,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yena-J&show_icons=true&theme=radical)
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0B1907&height=100" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0B1907&height=10" />
