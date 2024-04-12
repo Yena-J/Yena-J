@@ -8,8 +8,11 @@
 ⚡ 개인 이메일: 22ment.omori@gmail.com    
 ⚡ 학교 이메일: 15490107@edu.hanbat.ac.kr   
 
+<a href="https://www.instagram.com/yyeen_naa/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
+
 ## STAT
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yena-J&show_icons=true&theme=radical)
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0B1907&height=10" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0B1907&height=20" />
