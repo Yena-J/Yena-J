@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=#3ADF00&height=300px&section=header&text=반갑습니다&fontSize=100px" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=3ADF00&height=300&section=header&text=반갑습니다&fontSize=100" />
 
 ### HelLO mY wOrLD!
 ## INFO
