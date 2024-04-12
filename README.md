@@ -1,13 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=298A08&height=200&section=header&text=HelLo_mY_wOrLD¡&fontSize=60" />
 
-### HelLO mY wOrLD!
 ## INFO
-🔭 장예나
-🌱 2003.02.18
-📫 한밭대학교 컴퓨터공학과 재학중
+🔭 장예나   
+🌱 2003.02.18   
+📫 한밭대학교 컴퓨터공학과 재학중   
 
-⚡ 개인 이메일: 22ment.omori@gmail.com 
-⚡ 학교 이메일: 15490107@edu.hanbat.ac.kr
+⚡ 개인 이메일: 22ment.omori@gmail.com    
+⚡ 학교 이메일: 15490107@edu.hanbat.ac.kr   
 
 ## STAT
 
