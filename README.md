@@ -15,5 +15,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yena-J&show_icons=true&theme=radical)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Shells+don't+rust.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=QUEST.)](https://git.io/typing-svg)
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0B1907&height=20" />
