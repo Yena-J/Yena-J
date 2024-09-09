@@ -25,5 +25,5 @@ ICIS LAB (2024.05~)
 ## STAT
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yena-J&show_icons=true&theme=radical)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Difficulties_are_just_things_to_overcome)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Difficult_is_just_things_to_overcome)](https://git.io/typing-svg)
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0B1907&height=20" />
