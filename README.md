@@ -8,7 +8,7 @@
 
 ## Contact
 ⚡ 개인 이메일: 22ment.omori@gmail.com    
-⚡ 학교 이메일: 15490107@edu.hanbat.ac.kr \
+⚡ 학교 이메일: 15490107@edu.hanbat.ac.kr
 
 <a href="https://www.instagram.com/yyeen_naa/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
