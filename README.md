@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=298A08&height=200&section=header&text=HelLo_mY_wOrLD¡&fontSize=60" />
 
 ## INFO
-🔭 장예나 | Yena Jang
+🔭 장예나 | Yena Jang \
 🌱 2003.02.18
 
 ## Contact
