@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=298A08&height=200&section=header&text=HelLo_mY_wOrLD¡&fontSize=60" />
 
-## INFO
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Difficult_is_just_things_to_overcome)](https://git.io/typing-svg)
+
+## Information
 🔭 장예나 | Yena Jang \
 🌱 2003.02.18
 
@@ -22,8 +24,7 @@ ICIS LAB (2024.05~)
 - 2024 멋쟁이 사자처럼 12기 중앙 해커톤
 - ICCE-Asia24 학회 (2024.11 예정)
 
-## STAT
+## Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yena-J&show_icons=true&theme=radical)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Difficult_is_just_things_to_overcome)](https://git.io/typing-svg)
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0B1907&height=20" />
