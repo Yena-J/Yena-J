@@ -23,7 +23,6 @@
 ## Activity
 - 2024 SW 융합 클러스터 2.0 세종 DX 해커톤
 - 2024 멋쟁이 사자처럼 12기 중앙 해커톤
-- ICCE-Asia24 학회 (2024.11 예정)
 
 ## Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yena-J&show_icons=true&theme=radical)
