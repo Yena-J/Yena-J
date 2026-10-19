@@ -5,11 +5,11 @@
 ## Information
 👽 장예나 | Yena Jang \
 🌱 2003.02.18 \
-🎓 한밭대학교 컴퓨터공학과 3학년
+🎓 한밭대학교 컴퓨터공학과 4학년
 
 ## Contact
 ⚡ 개인 이메일: 22ment.omori@gmail.com    
-⚡ 학교 이메일: 15490107@edu.hanbat.ac.kr
+⚡ 학교 이메일: 20222006@edu.hanbat.ac.kr
 
 <a href="https://www.instagram.com/yyeen_naa/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
@@ -19,7 +19,7 @@
 ## Experience
 - 멋쟁이 사자처럼 12기 (2024.04~2024.12)
 - ICIS LAB (2024.05~)
-- 소중한 봉사단 4기 (2025.02~)
+- 소중한 봉사단 4기 (2025.02~2025.12)
 
 ## Activity
 - 2024 SW 융합 클러스터 2.0 세종 DX 해커톤
